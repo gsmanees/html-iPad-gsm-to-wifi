@@ -1,0 +1,49 @@
+h1{
+    color: white;
+    display:block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: purple;
+   
+}
+
+h2{
+    color: purple;
+}
+
+html{
+    background-color: antiquewhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: large;
+    
+}
+
+#Model{
+    color: purple;
+    font-size: 24px;
+    display: block;
+    text-align: left;
+    
+}
+
+
+
+button {
+    background-color: purple;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    width: 150px; /* Set common width */
+    height: 50px; /* Set common height (optional) */
+
+}
+
+.logo{
+    width: 50px;
+    height: auto;
+}
+.LogoHead{
+}
